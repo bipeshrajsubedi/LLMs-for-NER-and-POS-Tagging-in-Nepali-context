@@ -1,4 +1,4 @@
-# Exploring the Potential of Large Language Models (LLMs) for Low-resource Languages: A Study on Named-Entity Recognition (NER) and Part-Of-Speech (POS) Tagging for Nepali Language
+## Exploring the Potential of Large Language Models (LLMs) for Low-resource Languages: A Study on Named-Entity Recognition (NER) and Part-Of-Speech (POS) Tagging for Nepali Language
 Description:
 Significant progress in Natural Language Processing (NLP) has been achieved thanks to the advancements made by Large Language Models (LLMs), which demonstrate exceptional performance across a range of NLP tasks. 
 This research specifically delves into assessing the capabilities of LLMs especially BERT variants in Named Entity Recognition (NER) and Part-of-Speech (POS) tagging, focusing on Nepali, a language with limited resources. 

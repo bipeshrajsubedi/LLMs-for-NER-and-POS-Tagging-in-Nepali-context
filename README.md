@@ -4,7 +4,7 @@ This research specifically delves into assessing the capabilities of LLMs especi
 The objective is to examine how effectively these models perform in languages with constrained resources through experimentation and evaluation on two datasets: ILPRL and EBIQUITY. 
 In this study, we explore the efficacy of eight LLMs specifically for Nepali NER and POS tagging tasks.
 
-Note: This work has been accepted in LREC-COLING 2024 - The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation Lingotto Conference Centre - Torino (Italia)
+Note: This work has been accepted in LREC-COLING 2024 - The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation Lingotto Conference Centre - Torino (Italia) (https://lrec-coling-2024.org/)
 
 Datasets:
 ILPRL(CoNLL-2003 IOB): https://ilprl.ku.edu.np/  or contact (bal@ku.edu.np)
